@@ -69,6 +69,10 @@ margin-top: 180px;
   width: 446px;
   margin: 50px;
 }
+.half-width video{
+  width: 500px;
+  height: 350px;
+}
 .half-width img{
   width: 406px;
   height: 417px;
